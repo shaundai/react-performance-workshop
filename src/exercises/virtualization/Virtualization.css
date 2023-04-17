@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.movie {
+  height: 30px;
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+.movie:nth-child(odd) {
+  background-color: lightblue;
+}
